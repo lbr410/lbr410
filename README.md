@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=150&section=header&text=Look%20at%20Me!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flbr410&count_bg=%23FFD0A0&title_bg=%23FF9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 
 ## : About me
@@ -26,7 +27,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/SourceTree-0057E3?style=for-the-badge&logo=SourceTree&logoColor=white">
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr410&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/><br/>
