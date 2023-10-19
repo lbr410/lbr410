@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=150&section=header&text=Look%20at%20Me!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ## : About me
-<a href="https://www.instagram.com/ramiee__l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ramiee__l"/></a>
-<a href="https://blog.naver.com/cnn93" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/cnn93"/></a>
+<a href="https://www.instagram.com/ramiee__l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ramiee__l" target="_blank"/></a>
+<a href="https://blog.naver.com/cnn93" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/cnn93" target="_blank"/></a>
 <br/><br/><br/><br/><br/><br/>
 
 
