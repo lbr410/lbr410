@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/SourceTree-0057E3?style=for-the-badge&logo=SourceTree&logoColor=white">
 <br/><br/><br/><br/><br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr410&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr410&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![github stats](https://github-readme-stats.vercel.app/api?username=lbr410)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devbb)](https://solved.ac/devbb/)
 
