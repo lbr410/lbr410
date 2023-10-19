@@ -1,6 +1,4 @@
-<div align="center">
-![logo_github_icon_143196](https://github.com/lbr410/lbr410/assets/21166946/02aad8b0-58ab-4a68-b687-348b3d3baf2c)
-</div>
+
 <div align="center"> 
 
 
