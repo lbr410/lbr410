@@ -9,6 +9,7 @@
 
 ## : About me
 <a href="https://www.instagram.com/ramiee__l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ramiee__l" target="_blank"/></a>
+<a href="https://bb-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white&link=https://bb-dev.tistory.com/" target="_blank"/></a>
 <a href="https://blog.naver.com/cnn93" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/cnn93" target="_blank"/></a>
 <br/><br/><br/><br/><br/><br/>
 
