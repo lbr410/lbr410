@@ -1,12 +1,5 @@
 <div align="center"> 
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=header&text=BB's%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-<br/>
-
-
-
-
 ## : About me
 <a href="https://www.instagram.com/ramiee__l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ramiee__l" target="_blank"/></a>
 <a href="https://bb-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white&link=https://bb-dev.tistory.com/" target="_blank"/></a>
