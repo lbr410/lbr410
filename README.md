@@ -25,7 +25,8 @@
 #### Framework & Library
 <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Mybatis-F80000?style=for-the-badge&logo=Mybatis&logoColor=white"><br/><br/>
+<img src="https://img.shields.io/badge/Mybatis-F80000?style=for-the-badge&logo=Mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"><br/><br/>
 
 #### Server and Hosting
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black">
